@@ -1,0 +1,37 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.28.4-Firenze">
+  <identifier>전공원경계ITRF2000_20180226_ed</identifier>
+  <parentidentifier></parentidentifier>
+  <language>KOR</language>
+  <type>dataset</type>
+  <title>전공원경계ITRF2000_20180226_ed</title>
+  <abstract>REQUIRED: A brief narrative summary of the data set.
+
+REQUIRED: A summary of the intentions with which the data set was developed.</abstract>
+  <keywords vocabulary="gmd:topicCategory">
+    <keyword>REQUIRED: Common-use word or phrase used to describe the subject of the data set.</keyword>
+  </keywords>
+  <links>
+    <link url="file://" size="" description="" mimeType="" name="Shapefile" format="" type="Local Area Network"/>
+  </links>
+  <fees></fees>
+  <constraints type="접근">REQUIRED: Restrictions and legal prerequisites for accessing the data set.</constraints>
+  <rights>REQUIRED: Restrictions and legal prerequisites for using the data set after access is granted.</rights>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys nativeFormat="Wkt">
+      <wkt></wkt>
+      <proj4></proj4>
+      <srsid>0</srsid>
+      <srid>0</srid>
+      <authid></authid>
+      <description></description>
+      <projectionacronym></projectionacronym>
+      <ellipsoidacronym></ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent>
+    <spatial crs="EPSG:4326" minx="125.16993600000000697" maxz="0" maxx="129.49213599999998792" dimensions="2" maxy="38.2640699999999967" miny="33.32272300000000342" minz="0"/>
+  </extent>
+</qgis>
